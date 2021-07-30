@@ -1,4 +1,4 @@
-package org.javazcl.beans;
+package org.zcl.beans;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

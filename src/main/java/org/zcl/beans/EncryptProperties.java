@@ -1,4 +1,4 @@
-package org.javazcl.beans;
+package org.zcl.beans;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
