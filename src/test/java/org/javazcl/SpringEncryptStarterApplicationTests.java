@@ -1,4 +1,4 @@
-package com.javazcl;
+package org.javazcl;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
