@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.zcl</groupId>
     <artifactId>spring-encrypt-starter</artifactId>
-    <version>v0.0.1-RELEASE</version>
+    <version>v0.0.1.RELEASE</version>
     <name>spring-encrypt-starter</name>
     <description>Demo project for Spring Boot</description>
     <properties>
