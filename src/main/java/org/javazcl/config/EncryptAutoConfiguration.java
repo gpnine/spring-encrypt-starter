@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Configuration;
  * @Date 2021/7/30 8:52 下午
  */
 @Configuration
-@ComponentScan("com.javazcl")
+@ComponentScan("org.javazcl")
 public class EncryptAutoConfiguration {
 
 }
