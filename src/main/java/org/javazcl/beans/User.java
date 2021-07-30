@@ -1,4 +1,4 @@
-package com.javazcl.beans;
+package org.javazcl.beans;
 
 import com.baomidou.mybatisplus.annotation.TableField;
 import lombok.AllArgsConstructor;

@@ -1,7 +1,7 @@
-package com.javazcl.mapper;
+package org.javazcl.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.javazcl.beans.User;
+import org.javazcl.beans.User;
 import org.apache.ibatis.annotations.Mapper;
 
 /**

@@ -1,4 +1,4 @@
-package com.javazcl.utils;
+package org.javazcl.utils;
 
 import javax.crypto.Cipher;
 import javax.crypto.spec.SecretKeySpec;

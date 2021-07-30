@@ -1,7 +1,7 @@
-package com.javazcl.beans;
+package org.javazcl.beans;
 
-import com.javazcl.annotations.Decrypt;
-import com.javazcl.utils.AESUtils;
+import org.javazcl.annotations.Decrypt;
+import org.javazcl.utils.AESUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.core.MethodParameter;

@@ -1,4 +1,4 @@
-package com.javazcl.beans;
+package org.javazcl.beans;
 
 
 import org.springframework.core.MethodParameter;

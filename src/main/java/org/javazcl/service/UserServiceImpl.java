@@ -1,7 +1,7 @@
-package com.javazcl.service;
+package org.javazcl.service;
 
-import com.javazcl.beans.User;
-import com.javazcl.mapper.UserMapper;
+import org.javazcl.beans.User;
+import org.javazcl.mapper.UserMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

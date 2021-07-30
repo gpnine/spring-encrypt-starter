@@ -1,8 +1,8 @@
-package com.javazcl.controller;
+package org.javazcl.controller;
 
-import com.javazcl.beans.RespBean;
-import com.javazcl.beans.User;
-import com.javazcl.service.UserService;
+import org.javazcl.beans.RespBean;
+import org.javazcl.beans.User;
+import org.javazcl.service.UserService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

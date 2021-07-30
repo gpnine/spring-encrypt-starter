@@ -1,6 +1,6 @@
-package com.javazcl.service;
+package org.javazcl.service;
 
-import com.javazcl.beans.User;
+import org.javazcl.beans.User;
 
 /**
  * .
