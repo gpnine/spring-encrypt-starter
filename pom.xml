@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.zcl</groupId>
     <artifactId>spring-encrypt-starter</artifactId>
-    <version>v0.0.1.RELEASE</version>
+    <version>0.0.1.RELEASE</version>
     <name>spring-encrypt-starter</name>
     <description>Demo project for Spring Boot</description>
     <properties>
@@ -22,28 +22,10 @@
             <artifactId>spring-boot-starter-web</artifactId>
             <scope>provided</scope>
         </dependency>
-
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <optional>true</optional>
-        </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
-        </dependency>
-        <dependency>
-            <groupId>com.baomidou</groupId>
-            <artifactId>mybatis-plus-boot-starter</artifactId>
-            <version>3.4.1</version>
-        </dependency>
-
-        <!--mysql-->
-        <dependency>
-            <groupId>mysql</groupId>
-            <artifactId>mysql-connector-java</artifactId>
-            <scope>runtime</scope>
         </dependency>
     </dependencies>
 
